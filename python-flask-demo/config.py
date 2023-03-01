@@ -5,6 +5,7 @@ import pymysql
 DB_CONFIG = {
     "host": "127.0.0.1",
     "port": 3306,
+    # 设置为自己mysql的用户和密码
     "user": "root",
     "passwd": "123456",
     "db": "test",
